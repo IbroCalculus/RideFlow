@@ -12,6 +12,14 @@
 - **Secure Authentication**: JWT-based auth flow (OAuth2 password bearer).
 - **Scalable Architecture**: Docker-containerized backend with a Clean Architecture pattern.
 
+## 🎨 UI Gallery
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="assets/login.png" width="200" alt="Login Screen" />
+  <img src="assets/map_view.png" width="200" alt="Home Map" />
+  <img src="assets/driver_dashboard.png" width="200" alt="Driver Dashboard" />
+</div>
+
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile (Frontend)
