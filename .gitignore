@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+
+# Docker
+.docker_data/
+postgres_data/
+
+# Flutter
+mobile/build/
+mobile/.dart_tool/
+mobile/.packages
+mobile/.pub/
+mobile/pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db
